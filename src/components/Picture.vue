@@ -1,7 +1,7 @@
 <script>
   export default {
     data() {
-      return { image: '../public/Viktor.png' }
+      return { image: 'Viktor.png' }
     }
   }
 </script>
